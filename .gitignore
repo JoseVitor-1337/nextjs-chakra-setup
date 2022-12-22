@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# production
+/coverage
+/build
+/tsconfig.tsbuildinfo
+
+# next.js
+/.next/
+
+# local env files
+.env*.local
